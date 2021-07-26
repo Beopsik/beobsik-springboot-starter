@@ -1,0 +1,1 @@
+beobsik-springboot-starter
